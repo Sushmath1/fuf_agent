@@ -3,11 +3,24 @@
 from __future__ import annotations
 
 import json
+import os
 from datetime import date, datetime, time
 from pathlib import Path
 from typing import Any
 
 import streamlit as st
+from dotenv import load_dotenv
+
+# Prefer Streamlit Cloud/local secrets when configured; otherwise load the
+# developer's .env file. agent.py reads the resulting environment variable.
+try:
+    secret_key = st.secrets.get("GEMINI_API_KEY")
+except Exception:
+    secret_key = None
+if secret_key:
+    os.environ["GEMINI_API_KEY"] = str(secret_key)
+else:
+    load_dotenv(Path(__file__).parent / ".env")
 
 import agent
 from tools import travel_time
