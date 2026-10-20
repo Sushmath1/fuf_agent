@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "evt-01-01",
+    "title": "Chennai Build Sprint \u2014 Guindy",
+    "category": "hackathon",
+    "tags": [
+      "technology",
+      "coding",
+      "students"
+    ],
+    "venue": "IIT Madras Research Park",
+    "area": "Guindy",
+    "lat": 13.0067,
+    "lng": 80.2206,
+    "start": "2026-10-24T09:00:00+05:30",
+    "end": "2026-10-24T11:00:00+05:30",
+    "price_inr": 0,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "IIT Madras",
+      "min_age": 18
+    },
+    "registration_open": false,
+    "capacity_left": 0
+  },
+  {
+    "id": "evt-01-02",
+    "title": "Indie Strings Live \u2014 Guindy",
+    "category": "music concert",
+    "tags": [
+      "music",
+      "live",
+      "culture"
+    ],
+    "venue": "IIT Madras Research Park",
+    "area": "Guindy",
+    "lat": 13.0078,
+    "lng": 80.2218,
+    "start": "2026-10-24T10:00:00+05:30",
+    "end": "2026-10-24T12:30:00+05:30",
+    "price_inr": 150,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 15
+  },
+  {
+    "id": "evt-01-03",
+    "title": "Design Thinking Lab \u2014 Guindy",
+    "category": "workshop",
+    "tags": [
+      "design",
+      "learning",
+      "creative"
+    ],
+    "venue": "IIT Madras Research Park",
+    "area": "Guindy",
+    "lat": 13.0089,
+    "lng": 80.2206,
+    "start": "2026-10-24T11:30:00+05:30",
+    "end": "2026-10-24T13:30:00+05:30",
+    "price_inr": 250,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 18
+  },
+  {
+    "id": "evt-01-04",
+    "title": "City Tech Connect \u2014 Guindy",
+    "category": "tech meetup",
+    "tags": [
+      "technology",
+      "networking",
+      "startups"
+    ],
+    "venue": "IIT Madras Research Park",
+    "area": "Guindy",
+    "lat": 13.0067,
+    "lng": 80.2218,
+    "start": "2026-10-24T13:00:00+05:30",
+    "end": "2026-10-24T15:00:00+05:30",
+    "price_inr": 400,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 21
+  },
+  {
+    "id": "evt-01-05",
+    "title": "Street Food Stories \u2014 Guindy",
+    "category": "food fest",
+    "tags": [
+      "food",
+      "local",
+      "family"
+    ],
+    "venue": "IIT Madras Research Park",
+    "area": "Guindy",
+    "lat": 13.0078,
+    "lng": 80.2206,
+    "start": "2026-10-24T14:00:00+05:30",
+    "end": "2026-10-24T16:30:00+05:30",
+    "price_inr": 600,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 24
+  },
+  {
+    "id": "evt-01-06",
+    "title": "Rhythm & Roots Showcase \u2014 Guindy",
+    "category": "dance",
+    "tags": [
+      "dance",
+      "culture",
+      "performance"
+    ],
+    "venue": "IIT Madras Research Park",
+    "area": "Guindy",
+    "lat": 13.0089,
+    "lng": 80.2218,
+    "start": "2026-10-24T15:30:00+05:30",
+    "end": "2026-10-24T17:30:00+05:30",
+    "price_inr": 100,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 27
+  },
+  {
+    "id": "evt-01-07",
+    "title": "Laughing Madras \u2014 Guindy",
+    "category": "standup",
+    "tags": [
+      "comedy",
+      "standup",
+      "entertainment"
+    ],
+    "venue": "IIT Madras Research Park",
+    "area": "Guindy",
+    "lat": 13.0067,
+    "lng": 80.2206,
+    "start": "2026-10-24T17:00:00+05:30",
+    "end": "2026-10-24T19:00:00+05:30",
+    "price_inr": 300,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 30
+  },
+  {
+    "id": "evt-01-08",
+    "title": "Campus Innovation Fest \u2014 Guindy",
+    "category": "college fest",
+    "tags": [
+      "students",
+      "innovation",
+      "college"
+    ],
+    "venue": "IIT Madras Research Park",
+    "area": "Guindy",
+    "lat": 13.0078,
+    "lng": 80.2218,
+    "start": "2026-10-24T18:30:00+05:30",
+    "end": "2026-10-24T21:00:00+05:30",
+    "price_inr": 200,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "Anna University",
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 33
+  },
+  {
+    "id": "evt-02-01",
+    "title": "Indie Strings Live \u2014 T Nagar",
+    "category": "music concert",
+    "tags": [
+      "music",
+      "live",
+      "culture"
+    ],
+    "venue": "RKM Vivekananda Hall",
+    "area": "T Nagar",
+    "lat": 13.0418,
+    "lng": 80.2341,
+    "start": "2026-10-24T09:00:00+05:30",
+    "end": "2026-10-24T11:00:00+05:30",
+    "price_inr": 150,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 19
+  },
+  {
+    "id": "evt-02-02",
+    "title": "Design Thinking Lab \u2014 T Nagar",
+    "category": "workshop",
+    "tags": [
+      "design",
+      "learning",
+      "creative"
+    ],
+    "venue": "RKM Vivekananda Hall",
+    "area": "T Nagar",
+    "lat": 13.0429,
+    "lng": 80.2353,
+    "start": "2026-10-24T10:00:00+05:30",
+    "end": "2026-10-24T12:30:00+05:30",
+    "price_inr": 250,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 0
+  },
+  {
+    "id": "evt-02-03",
+    "title": "City Tech Connect \u2014 T Nagar",
+    "category": "tech meetup",
+    "tags": [
+      "technology",
+      "networking",
+      "startups"
+    ],
+    "venue": "RKM Vivekananda Hall",
+    "area": "T Nagar",
+    "lat": 13.044,
+    "lng": 80.2341,
+    "start": "2026-10-24T11:30:00+05:30",
+    "end": "2026-10-24T13:30:00+05:30",
+    "price_inr": 400,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 25
+  },
+  {
+    "id": "evt-02-04",
+    "title": "Street Food Stories \u2014 T Nagar",
+    "category": "food fest",
+    "tags": [
+      "food",
+      "local",
+      "family"
+    ],
+    "venue": "RKM Vivekananda Hall",
+    "area": "T Nagar",
+    "lat": 13.0418,
+    "lng": 80.2353,
+    "start": "2026-10-24T13:00:00+05:30",
+    "end": "2026-10-24T15:00:00+05:30",
+    "price_inr": 600,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 28
+  },
+  {
+    "id": "evt-02-05",
+    "title": "Rhythm & Roots Showcase \u2014 T Nagar",
+    "category": "dance",
+    "tags": [
+      "dance",
+      "culture",
+      "performance"
+    ],
+    "venue": "RKM Vivekananda Hall",
+    "area": "T Nagar",
+    "lat": 13.0429,
+    "lng": 80.2341,
+    "start": "2026-10-24T14:00:00+05:30",
+    "end": "2026-10-24T16:30:00+05:30",
+    "price_inr": 100,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 31
+  },
+  {
+    "id": "evt-02-06",
+    "title": "Laughing Madras \u2014 T Nagar",
+    "category": "standup",
+    "tags": [
+      "comedy",
+      "standup",
+      "entertainment"
+    ],
+    "venue": "RKM Vivekananda Hall",
+    "area": "T Nagar",
+    "lat": 13.044,
+    "lng": 80.2353,
+    "start": "2026-10-24T15:30:00+05:30",
+    "end": "2026-10-24T17:30:00+05:30",
+    "price_inr": 300,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 34
+  },
+  {
+    "id": "evt-02-07",
+    "title": "Campus Innovation Fest \u2014 T Nagar",
+    "category": "college fest",
+    "tags": [
+      "students",
+      "innovation",
+      "college"
+    ],
+    "venue": "RKM Vivekananda Hall",
+    "area": "T Nagar",
+    "lat": 13.0418,
+    "lng": 80.2341,
+    "start": "2026-10-24T17:00:00+05:30",
+    "end": "2026-10-24T19:00:00+05:30",
+    "price_inr": 200,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "Anna University",
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 37
+  },
+  {
+    "id": "evt-02-08",
+    "title": "Chennai Build Sprint \u2014 T Nagar",
+    "category": "hackathon",
+    "tags": [
+      "technology",
+      "coding",
+      "students"
+    ],
+    "venue": "RKM Vivekananda Hall",
+    "area": "T Nagar",
+    "lat": 13.0429,
+    "lng": 80.2353,
+    "start": "2026-10-24T18:30:00+05:30",
+    "end": "2026-10-24T21:00:00+05:30",
+    "price_inr": 0,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "IIT Madras",
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 40
+  },
+  {
+    "id": "evt-03-01",
+    "title": "Design Thinking Lab \u2014 Mylapore",
+    "category": "workshop",
+    "tags": [
+      "design",
+      "learning",
+      "creative"
+    ],
+    "venue": "Narada Gana Sabha",
+    "area": "Mylapore",
+    "lat": 13.0339,
+    "lng": 80.2676,
+    "start": "2026-10-24T09:00:00+05:30",
+    "end": "2026-10-24T11:00:00+05:30",
+    "price_inr": 250,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 26
+  },
+  {
+    "id": "evt-03-02",
+    "title": "City Tech Connect \u2014 Mylapore",
+    "category": "tech meetup",
+    "tags": [
+      "technology",
+      "networking",
+      "startups"
+    ],
+    "venue": "Narada Gana Sabha",
+    "area": "Mylapore",
+    "lat": 13.035,
+    "lng": 80.2688,
+    "start": "2026-10-24T10:00:00+05:30",
+    "end": "2026-10-24T12:30:00+05:30",
+    "price_inr": 400,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 29
+  },
+  {
+    "id": "evt-03-03",
+    "title": "Street Food Stories \u2014 Mylapore",
+    "category": "food fest",
+    "tags": [
+      "food",
+      "local",
+      "family"
+    ],
+    "venue": "Narada Gana Sabha",
+    "area": "Mylapore",
+    "lat": 13.0361,
+    "lng": 80.2676,
+    "start": "2026-10-24T11:30:00+05:30",
+    "end": "2026-10-24T13:30:00+05:30",
+    "price_inr": 600,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 32
+  },
+  {
+    "id": "evt-03-04",
+    "title": "Rhythm & Roots Showcase \u2014 Mylapore",
+    "category": "dance",
+    "tags": [
+      "dance",
+      "culture",
+      "performance"
+    ],
+    "venue": "Narada Gana Sabha",
+    "area": "Mylapore",
+    "lat": 13.0339,
+    "lng": 80.2688,
+    "start": "2026-10-24T13:00:00+05:30",
+    "end": "2026-10-24T15:00:00+05:30",
+    "price_inr": 100,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 35
+  },
+  {
+    "id": "evt-03-05",
+    "title": "Laughing Madras \u2014 Mylapore",
+    "category": "standup",
+    "tags": [
+      "comedy",
+      "standup",
+      "entertainment"
+    ],
+    "venue": "Narada Gana Sabha",
+    "area": "Mylapore",
+    "lat": 13.035,
+    "lng": 80.2676,
+    "start": "2026-10-24T14:00:00+05:30",
+    "end": "2026-10-24T16:30:00+05:30",
+    "price_inr": 300,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 38
+  },
+  {
+    "id": "evt-03-06",
+    "title": "Campus Innovation Fest \u2014 Mylapore",
+    "category": "college fest",
+    "tags": [
+      "students",
+      "innovation",
+      "college"
+    ],
+    "venue": "Narada Gana Sabha",
+    "area": "Mylapore",
+    "lat": 13.0361,
+    "lng": 80.2688,
+    "start": "2026-10-24T15:30:00+05:30",
+    "end": "2026-10-24T17:30:00+05:30",
+    "price_inr": 200,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "Anna University",
+      "min_age": 0
+    },
+    "registration_open": false,
+    "capacity_left": 41
+  },
+  {
+    "id": "evt-03-07",
+    "title": "Chennai Build Sprint \u2014 Mylapore",
+    "category": "hackathon",
+    "tags": [
+      "technology",
+      "coding",
+      "students"
+    ],
+    "venue": "Narada Gana Sabha",
+    "area": "Mylapore",
+    "lat": 13.0339,
+    "lng": 80.2676,
+    "start": "2026-10-24T17:00:00+05:30",
+    "end": "2026-10-24T19:00:00+05:30",
+    "price_inr": 0,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "IIT Madras",
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 44
+  },
+  {
+    "id": "evt-03-08",
+    "title": "Indie Strings Live \u2014 Mylapore",
+    "category": "music concert",
+    "tags": [
+      "music",
+      "live",
+      "culture"
+    ],
+    "venue": "Narada Gana Sabha",
+    "area": "Mylapore",
+    "lat": 13.035,
+    "lng": 80.2688,
+    "start": "2026-10-24T18:30:00+05:30",
+    "end": "2026-10-24T21:00:00+05:30",
+    "price_inr": 150,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 0
+  },
+  {
+    "id": "evt-04-01",
+    "title": "City Tech Connect \u2014 Adyar",
+    "category": "tech meetup",
+    "tags": [
+      "technology",
+      "networking",
+      "startups"
+    ],
+    "venue": "Theosophical Society Grounds",
+    "area": "Adyar",
+    "lat": 13.0063,
+    "lng": 80.2574,
+    "start": "2026-10-24T09:00:00+05:30",
+    "end": "2026-10-24T11:00:00+05:30",
+    "price_inr": 400,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 33
+  },
+  {
+    "id": "evt-04-02",
+    "title": "Street Food Stories \u2014 Adyar",
+    "category": "food fest",
+    "tags": [
+      "food",
+      "local",
+      "family"
+    ],
+    "venue": "Theosophical Society Grounds",
+    "area": "Adyar",
+    "lat": 13.0074,
+    "lng": 80.2586,
+    "start": "2026-10-24T10:00:00+05:30",
+    "end": "2026-10-24T12:30:00+05:30",
+    "price_inr": 600,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 36
+  },
+  {
+    "id": "evt-04-03",
+    "title": "Rhythm & Roots Showcase \u2014 Adyar",
+    "category": "dance",
+    "tags": [
+      "dance",
+      "culture",
+      "performance"
+    ],
+    "venue": "Theosophical Society Grounds",
+    "area": "Adyar",
+    "lat": 13.0085,
+    "lng": 80.2574,
+    "start": "2026-10-24T11:30:00+05:30",
+    "end": "2026-10-24T13:30:00+05:30",
+    "price_inr": 100,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": false,
+    "capacity_left": 0
+  },
+  {
+    "id": "evt-04-04",
+    "title": "Laughing Madras \u2014 Adyar",
+    "category": "standup",
+    "tags": [
+      "comedy",
+      "standup",
+      "entertainment"
+    ],
+    "venue": "Theosophical Society Grounds",
+    "area": "Adyar",
+    "lat": 13.0063,
+    "lng": 80.2586,
+    "start": "2026-10-24T13:00:00+05:30",
+    "end": "2026-10-24T15:00:00+05:30",
+    "price_inr": 300,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 18
+    },
+    "registration_open": false,
+    "capacity_left": 42
+  },
+  {
+    "id": "evt-04-05",
+    "title": "Campus Innovation Fest \u2014 Adyar",
+    "category": "college fest",
+    "tags": [
+      "students",
+      "innovation",
+      "college"
+    ],
+    "venue": "Theosophical Society Grounds",
+    "area": "Adyar",
+    "lat": 13.0074,
+    "lng": 80.2574,
+    "start": "2026-10-24T14:00:00+05:30",
+    "end": "2026-10-24T16:30:00+05:30",
+    "price_inr": 200,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "Anna University",
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 45
+  },
+  {
+    "id": "evt-04-06",
+    "title": "Chennai Build Sprint \u2014 Adyar",
+    "category": "hackathon",
+    "tags": [
+      "technology",
+      "coding",
+      "students"
+    ],
+    "venue": "Theosophical Society Grounds",
+    "area": "Adyar",
+    "lat": 13.0085,
+    "lng": 80.2586,
+    "start": "2026-10-24T15:30:00+05:30",
+    "end": "2026-10-24T17:30:00+05:30",
+    "price_inr": 0,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "IIT Madras",
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 48
+  },
+  {
+    "id": "evt-04-07",
+    "title": "Indie Strings Live \u2014 Adyar",
+    "category": "music concert",
+    "tags": [
+      "music",
+      "live",
+      "culture"
+    ],
+    "venue": "Theosophical Society Grounds",
+    "area": "Adyar",
+    "lat": 13.0063,
+    "lng": 80.2574,
+    "start": "2026-10-24T17:00:00+05:30",
+    "end": "2026-10-24T19:00:00+05:30",
+    "price_inr": 150,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 51
+  },
+  {
+    "id": "evt-04-08",
+    "title": "Design Thinking Lab \u2014 Adyar",
+    "category": "workshop",
+    "tags": [
+      "design",
+      "learning",
+      "creative"
+    ],
+    "venue": "Theosophical Society Grounds",
+    "area": "Adyar",
+    "lat": 13.0074,
+    "lng": 80.2586,
+    "start": "2026-10-24T18:30:00+05:30",
+    "end": "2026-10-24T21:00:00+05:30",
+    "price_inr": 250,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 54
+  },
+  {
+    "id": "evt-05-01",
+    "title": "Street Food Stories \u2014 Anna Nagar",
+    "category": "food fest",
+    "tags": [
+      "food",
+      "local",
+      "family"
+    ],
+    "venue": "Anna Nagar Tower Park",
+    "area": "Anna Nagar",
+    "lat": 13.085,
+    "lng": 80.2101,
+    "start": "2026-10-24T09:00:00+05:30",
+    "end": "2026-10-24T11:00:00+05:30",
+    "price_inr": 600,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 40
+  },
+  {
+    "id": "evt-05-02",
+    "title": "Rhythm & Roots Showcase \u2014 Anna Nagar",
+    "category": "dance",
+    "tags": [
+      "dance",
+      "culture",
+      "performance"
+    ],
+    "venue": "Anna Nagar Tower Park",
+    "area": "Anna Nagar",
+    "lat": 13.0861,
+    "lng": 80.2113,
+    "start": "2026-10-24T10:00:00+05:30",
+    "end": "2026-10-24T12:30:00+05:30",
+    "price_inr": 100,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 43
+  },
+  {
+    "id": "evt-05-03",
+    "title": "Laughing Madras \u2014 Anna Nagar",
+    "category": "standup",
+    "tags": [
+      "comedy",
+      "standup",
+      "entertainment"
+    ],
+    "venue": "Anna Nagar Tower Park",
+    "area": "Anna Nagar",
+    "lat": 13.0872,
+    "lng": 80.2101,
+    "start": "2026-10-24T11:30:00+05:30",
+    "end": "2026-10-24T13:30:00+05:30",
+    "price_inr": 300,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 46
+  },
+  {
+    "id": "evt-05-04",
+    "title": "Campus Innovation Fest \u2014 Anna Nagar",
+    "category": "college fest",
+    "tags": [
+      "students",
+      "innovation",
+      "college"
+    ],
+    "venue": "Anna Nagar Tower Park",
+    "area": "Anna Nagar",
+    "lat": 13.085,
+    "lng": 80.2113,
+    "start": "2026-10-24T13:00:00+05:30",
+    "end": "2026-10-24T15:00:00+05:30",
+    "price_inr": 200,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "Anna University",
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 49
+  },
+  {
+    "id": "evt-05-05",
+    "title": "Chennai Build Sprint \u2014 Anna Nagar",
+    "category": "hackathon",
+    "tags": [
+      "technology",
+      "coding",
+      "students"
+    ],
+    "venue": "Anna Nagar Tower Park",
+    "area": "Anna Nagar",
+    "lat": 13.0861,
+    "lng": 80.2101,
+    "start": "2026-10-24T14:00:00+05:30",
+    "end": "2026-10-24T16:30:00+05:30",
+    "price_inr": 0,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "IIT Madras",
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 52
+  },
+  {
+    "id": "evt-05-06",
+    "title": "Indie Strings Live \u2014 Anna Nagar",
+    "category": "music concert",
+    "tags": [
+      "music",
+      "live",
+      "culture"
+    ],
+    "venue": "Anna Nagar Tower Park",
+    "area": "Anna Nagar",
+    "lat": 13.0872,
+    "lng": 80.2113,
+    "start": "2026-10-24T15:30:00+05:30",
+    "end": "2026-10-24T17:30:00+05:30",
+    "price_inr": 150,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 55
+  },
+  {
+    "id": "evt-05-07",
+    "title": "Design Thinking Lab \u2014 Anna Nagar",
+    "category": "workshop",
+    "tags": [
+      "design",
+      "learning",
+      "creative"
+    ],
+    "venue": "Anna Nagar Tower Park",
+    "area": "Anna Nagar",
+    "lat": 13.085,
+    "lng": 80.2101,
+    "start": "2026-10-24T17:00:00+05:30",
+    "end": "2026-10-24T19:00:00+05:30",
+    "price_inr": 250,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 58
+  },
+  {
+    "id": "evt-05-08",
+    "title": "City Tech Connect \u2014 Anna Nagar",
+    "category": "tech meetup",
+    "tags": [
+      "technology",
+      "networking",
+      "startups"
+    ],
+    "venue": "Anna Nagar Tower Park",
+    "area": "Anna Nagar",
+    "lat": 13.0861,
+    "lng": 80.2113,
+    "start": "2026-10-24T18:30:00+05:30",
+    "end": "2026-10-24T21:00:00+05:30",
+    "price_inr": 400,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 61
+  },
+  {
+    "id": "evt-06-01",
+    "title": "Rhythm & Roots Showcase \u2014 OMR",
+    "category": "dance",
+    "tags": [
+      "dance",
+      "culture",
+      "performance"
+    ],
+    "venue": "Tidel Park Auditorium",
+    "area": "OMR",
+    "lat": 12.8406,
+    "lng": 80.1538,
+    "start": "2026-10-24T09:00:00+05:30",
+    "end": "2026-10-24T11:00:00+05:30",
+    "price_inr": 100,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 47
+  },
+  {
+    "id": "evt-06-02",
+    "title": "Laughing Madras \u2014 OMR",
+    "category": "standup",
+    "tags": [
+      "comedy",
+      "standup",
+      "entertainment"
+    ],
+    "venue": "Tidel Park Auditorium",
+    "area": "OMR",
+    "lat": 12.8417,
+    "lng": 80.155,
+    "start": "2026-10-24T10:00:00+05:30",
+    "end": "2026-10-24T12:30:00+05:30",
+    "price_inr": 300,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 50
+  },
+  {
+    "id": "evt-06-03",
+    "title": "Campus Innovation Fest \u2014 OMR",
+    "category": "college fest",
+    "tags": [
+      "students",
+      "innovation",
+      "college"
+    ],
+    "venue": "Tidel Park Auditorium",
+    "area": "OMR",
+    "lat": 12.8428,
+    "lng": 80.1538,
+    "start": "2026-10-24T11:30:00+05:30",
+    "end": "2026-10-24T13:30:00+05:30",
+    "price_inr": 200,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "Anna University",
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 53
+  },
+  {
+    "id": "evt-06-04",
+    "title": "Chennai Build Sprint \u2014 OMR",
+    "category": "hackathon",
+    "tags": [
+      "technology",
+      "coding",
+      "students"
+    ],
+    "venue": "Tidel Park Auditorium",
+    "area": "OMR",
+    "lat": 12.8406,
+    "lng": 80.155,
+    "start": "2026-10-24T13:00:00+05:30",
+    "end": "2026-10-24T15:00:00+05:30",
+    "price_inr": 0,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "IIT Madras",
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 56
+  },
+  {
+    "id": "evt-06-05",
+    "title": "Indie Strings Live \u2014 OMR",
+    "category": "music concert",
+    "tags": [
+      "music",
+      "live",
+      "culture"
+    ],
+    "venue": "Tidel Park Auditorium",
+    "area": "OMR",
+    "lat": 12.8417,
+    "lng": 80.1538,
+    "start": "2026-10-24T14:00:00+05:30",
+    "end": "2026-10-24T16:30:00+05:30",
+    "price_inr": 150,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 59
+  },
+  {
+    "id": "evt-06-06",
+    "title": "Design Thinking Lab \u2014 OMR",
+    "category": "workshop",
+    "tags": [
+      "design",
+      "learning",
+      "creative"
+    ],
+    "venue": "Tidel Park Auditorium",
+    "area": "OMR",
+    "lat": 12.8428,
+    "lng": 80.155,
+    "start": "2026-10-24T15:30:00+05:30",
+    "end": "2026-10-24T17:30:00+05:30",
+    "price_inr": 250,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 62
+  },
+  {
+    "id": "evt-06-07",
+    "title": "City Tech Connect \u2014 OMR",
+    "category": "tech meetup",
+    "tags": [
+      "technology",
+      "networking",
+      "startups"
+    ],
+    "venue": "Tidel Park Auditorium",
+    "area": "OMR",
+    "lat": 12.8406,
+    "lng": 80.1538,
+    "start": "2026-10-24T17:00:00+05:30",
+    "end": "2026-10-24T19:00:00+05:30",
+    "price_inr": 400,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 65
+  },
+  {
+    "id": "evt-06-08",
+    "title": "Street Food Stories \u2014 OMR",
+    "category": "food fest",
+    "tags": [
+      "food",
+      "local",
+      "family"
+    ],
+    "venue": "Tidel Park Auditorium",
+    "area": "OMR",
+    "lat": 12.8417,
+    "lng": 80.155,
+    "start": "2026-10-24T18:30:00+05:30",
+    "end": "2026-10-24T21:00:00+05:30",
+    "price_inr": 600,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": false,
+    "capacity_left": 68
+  },
+  {
+    "id": "evt-07-01",
+    "title": "Laughing Madras \u2014 Besant Nagar",
+    "category": "standup",
+    "tags": [
+      "comedy",
+      "standup",
+      "entertainment"
+    ],
+    "venue": "Elliot Beach Community Hall",
+    "area": "Besant Nagar",
+    "lat": 13.0003,
+    "lng": 80.2668,
+    "start": "2026-10-24T09:00:00+05:30",
+    "end": "2026-10-24T11:00:00+05:30",
+    "price_inr": 300,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 54
+  },
+  {
+    "id": "evt-07-02",
+    "title": "Campus Innovation Fest \u2014 Besant Nagar",
+    "category": "college fest",
+    "tags": [
+      "students",
+      "innovation",
+      "college"
+    ],
+    "venue": "Elliot Beach Community Hall",
+    "area": "Besant Nagar",
+    "lat": 13.0014,
+    "lng": 80.268,
+    "start": "2026-10-24T10:00:00+05:30",
+    "end": "2026-10-24T12:30:00+05:30",
+    "price_inr": 200,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "Anna University",
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 57
+  },
+  {
+    "id": "evt-07-03",
+    "title": "Chennai Build Sprint \u2014 Besant Nagar",
+    "category": "hackathon",
+    "tags": [
+      "technology",
+      "coding",
+      "students"
+    ],
+    "venue": "Elliot Beach Community Hall",
+    "area": "Besant Nagar",
+    "lat": 13.0025,
+    "lng": 80.2668,
+    "start": "2026-10-24T11:30:00+05:30",
+    "end": "2026-10-24T13:30:00+05:30",
+    "price_inr": 0,
+    "eligibility": {
+      "students_only": true,
+      "college_only": "IIT Madras",
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 60
+  },
+  {
+    "id": "evt-07-04",
+    "title": "Indie Strings Live \u2014 Besant Nagar",
+    "category": "music concert",
+    "tags": [
+      "music",
+      "live",
+      "culture"
+    ],
+    "venue": "Elliot Beach Community Hall",
+    "area": "Besant Nagar",
+    "lat": 13.0003,
+    "lng": 80.268,
+    "start": "2026-10-24T13:00:00+05:30",
+    "end": "2026-10-24T15:00:00+05:30",
+    "price_inr": 150,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 63
+  },
+  {
+    "id": "evt-07-05",
+    "title": "Design Thinking Lab \u2014 Besant Nagar",
+    "category": "workshop",
+    "tags": [
+      "design",
+      "learning",
+      "creative"
+    ],
+    "venue": "Elliot Beach Community Hall",
+    "area": "Besant Nagar",
+    "lat": 13.0014,
+    "lng": 80.2668,
+    "start": "2026-10-24T14:00:00+05:30",
+    "end": "2026-10-24T16:30:00+05:30",
+    "price_inr": 250,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": false,
+    "capacity_left": 0
+  },
+  {
+    "id": "evt-07-06",
+    "title": "City Tech Connect \u2014 Besant Nagar",
+    "category": "tech meetup",
+    "tags": [
+      "technology",
+      "networking",
+      "startups"
+    ],
+    "venue": "Elliot Beach Community Hall",
+    "area": "Besant Nagar",
+    "lat": 13.0025,
+    "lng": 80.268,
+    "start": "2026-10-24T15:30:00+05:30",
+    "end": "2026-10-24T17:30:00+05:30",
+    "price_inr": 400,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 69
+  },
+  {
+    "id": "evt-07-07",
+    "title": "Street Food Stories \u2014 Besant Nagar",
+    "category": "food fest",
+    "tags": [
+      "food",
+      "local",
+      "family"
+    ],
+    "venue": "Elliot Beach Community Hall",
+    "area": "Besant Nagar",
+    "lat": 13.0003,
+    "lng": 80.2668,
+    "start": "2026-10-24T17:00:00+05:30",
+    "end": "2026-10-24T19:00:00+05:30",
+    "price_inr": 600,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": false,
+    "capacity_left": 72
+  },
+  {
+    "id": "evt-07-08",
+    "title": "Rhythm & Roots Showcase \u2014 Besant Nagar",
+    "category": "dance",
+    "tags": [
+      "dance",
+      "culture",
+      "performance"
+    ],
+    "venue": "Elliot Beach Community Hall",
+    "area": "Besant Nagar",
+    "lat": 13.0014,
+    "lng": 80.268,
+    "start": "2026-10-24T18:30:00+05:30",
+    "end": "2026-10-24T21:00:00+05:30",
+    "price_inr": 100,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 75
+  },
+  {
+    "id": "evt-08-01",
+    "title": "Chennai Student Open Mic \u2014 Guindy",
+    "category": "standup",
+    "tags": [
+      "comedy",
+      "standup",
+      "students"
+    ],
+    "venue": "Guindy Community Venue",
+    "area": "Guindy",
+    "lat": 13.0078,
+    "lng": 80.2218,
+    "start": "2026-10-24T12:00:00+05:30",
+    "end": "2026-10-24T13:00:00+05:30",
+    "price_inr": 100,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 16
+    },
+    "registration_open": true,
+    "capacity_left": 20
+  },
+  {
+    "id": "evt-08-02",
+    "title": "Marina Makers Meetup \u2014 Mylapore",
+    "category": "tech meetup",
+    "tags": [
+      "technology",
+      "makers",
+      "networking"
+    ],
+    "venue": "Mylapore Community Venue",
+    "area": "Mylapore",
+    "lat": 13.035,
+    "lng": 80.2685,
+    "start": "2026-10-24T16:00:00+05:30",
+    "end": "2026-10-24T18:00:00+05:30",
+    "price_inr": 250,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 40
+  },
+  {
+    "id": "evt-08-03",
+    "title": "Coastal Kitchen Food Fest \u2014 Besant Nagar",
+    "category": "food fest",
+    "tags": [
+      "food",
+      "local",
+      "family"
+    ],
+    "venue": "Besant Nagar Community Venue",
+    "area": "Besant Nagar",
+    "lat": 13.0011,
+    "lng": 80.2677,
+    "start": "2026-10-24T19:00:00+05:30",
+    "end": "2026-10-24T21:30:00+05:30",
+    "price_inr": 600,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 0
+    },
+    "registration_open": true,
+    "capacity_left": 35
+  },
+  {
+    "id": "evt-08-04",
+    "title": "OMR Future Founders Forum \u2014 OMR",
+    "category": "tech meetup",
+    "tags": [
+      "technology",
+      "startups",
+      "networking"
+    ],
+    "venue": "OMR Community Venue",
+    "area": "OMR",
+    "lat": 12.8415,
+    "lng": 80.155,
+    "start": "2026-10-24T08:30:00+05:30",
+    "end": "2026-10-24T10:30:00+05:30",
+    "price_inr": 400,
+    "eligibility": {
+      "students_only": false,
+      "college_only": null,
+      "min_age": 18
+    },
+    "registration_open": true,
+    "capacity_left": 25
+  }
+]
