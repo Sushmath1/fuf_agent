@@ -38,6 +38,31 @@ FUF Agent follows the **LLM-Modulo** idea: use an LLM as a planner and explainer
 
 The demo contains **60 sample events** across Chennai areas including Guindy, T Nagar, Mylapore, Adyar, Anna Nagar, OMR, and Besant Nagar, all for **Saturday, 24 October 2026**. It intentionally includes overlaps, closed registrations, eligibility restrictions, and sold-out events so the validator has meaningful work to do.
 
+## Setup on Linux
+
+The project pins Python 3.11.2 in `.python-version` and ships a fully resolved `requirements.lock` for reproducible installs.
+
+```bash
+python3.11 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -r requirements.lock
+cp .env.example .env
+# Edit .env and set GEMINI_API_KEY.
+```
+
+Run the application:
+
+```bash
+streamlit run app.py
+```
+
+Run the test suite:
+
+```bash
+python -m pytest -q
+```
+
 ## Setup on Windows
 
 From PowerShell:
@@ -68,6 +93,17 @@ streamlit run app.py
 ```
 
 The app prefers `st.secrets["GEMINI_API_KEY"]` when present and otherwise loads `.env`.
+
+## Docker
+
+Build and run without installing Python locally:
+
+```bash
+docker build -t fuf-agent .
+docker run --rm -p 8501:8501 --env-file .env fuf-agent
+```
+
+Open `http://localhost:8501` in a browser. The image uses the pinned Python 3.11.2 runtime and `requirements.lock`.
 
 ## Screenshots
 
